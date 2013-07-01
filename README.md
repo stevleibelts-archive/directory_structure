@@ -6,7 +6,6 @@ This git reporsitory provides a general directory structure and should follow a 
 
 ## Example 
 
-    ```
     /home/$user  
     |-/backup       	contains backups  
     |-/bin          	contains binaries  
