@@ -12,7 +12,7 @@ This git reporsitory provides a general directory structure and should follow a 
 |-/bin          	contains binaries
 |-/code         	contains sourcecode
     |-/php                      contains php sourcecode
-    |-/sh                       contains shellscript sourcecode
+    |-/shell                    contains shellscript sourcecode
 |-/config       	contains configuration files
 |-/data         	contains data files
     |-/www			contains files for webservers
@@ -26,10 +26,8 @@ This git reporsitory provides a general directory structure and should follow a 
     |-/book			contains book files
     |-/image            	contains image files
     |-/video            	contains video files
-|-/other        	contains not sortable files
 |-/share        	contains shared files and mounted shares
     |-/out			contains shared files
     |-/in			contains mouted shares
 |-/temp			contains temporary files
 |-/tool 	       	contains tools
-
